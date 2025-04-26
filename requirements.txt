@@ -1,0 +1,8 @@
+pypresence>=4.2.1
+discord.py>=2.3.0
+colorama>=0.4.6
+httpx>=0.24.1
+rich>=13.4.0
+pillow>=10.0.0
+pyfiglet>=0.8.post1
+termcolor>=2.3.0

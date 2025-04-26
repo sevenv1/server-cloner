@@ -1,0 +1,10 @@
+{
+   "token": "your-account-token-here",
+   "colors": {
+      "success": "green",
+      "error": "red",
+      "info": "cyan",
+      "warning": "yellow",
+      "default": "red"
+   }
+}
